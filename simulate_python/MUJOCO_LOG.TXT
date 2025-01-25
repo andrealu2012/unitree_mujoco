@@ -1,0 +1,12 @@
+Tue Dec 24 10:11:43 2024
+ERROR: could not create window
+
+Tue Dec 24 10:12:01 2024
+ERROR: could not create window
+
+Tue Dec 24 10:14:03 2024
+ERROR: could not create window
+
+Tue Dec 24 10:26:05 2024
+ERROR: could not create window
+
