@@ -19,3 +19,4 @@ ENABLE_ELASTIC_BAND = True # Virtual spring band, used for lifting h1
 SIMULATE_DT = 0.005  # Need to be larger than the runtime of viewer.sync()
 VIEWER_DT = 0.02  # 50 fps for viewer
 
+
